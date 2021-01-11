@@ -3,11 +3,17 @@
 This project will help you in getting to know about the concepts of flutter with deep ar.
 
 
-A few resources to get you started if this is your first Flutter project:
+How to use
+To clone and run this application, you'll need Git and Flutter installed on your computer. From your command line:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Clone this repository
+$ git clone https://github.com/ivats2911/flutter_filters.git
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Go into the repository
+$ cd flutter_filters
+
+# Install packages
+$ flutter packages get
+
+# Run the app
+$ flutter run
